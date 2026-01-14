@@ -16,7 +16,7 @@ function App() {
 export default App
 ```
 Результат в браузере
-![[img1.png]]
+![[Task2/img1.png]]
 # Практическое задание №2
 App.jsx:
 ```js
