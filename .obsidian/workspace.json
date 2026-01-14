@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "2573113862bee894",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4772a59ffd62149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf646c93c9dc637b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7153431071535fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbc4bd74bc057dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a87b8f97fff538",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17c60ce60e99cd89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9854fe807a7962b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ad8c4213afa4781",
+    "type": "split",
+    "children": [
+      {
+        "id": "298935169f4e1b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f08f058824305d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сценарий_2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Сценарий_2"
+            }
+          },
+          {
+            "id": "cd9b85590f4ff906",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сценарий_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Сценарий_2"
+            }
+          },
+          {
+            "id": "7aff74e9c5462aad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b9f5eb5c4d51892",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сценарий_2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Сценарий_2"
+            }
+          },
+          {
+            "id": "54c877c3d93f3fef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bf646c93c9dc637b",
+  "lastOpenFiles": [
+    "Сценарий_2.md",
+    "Реп.md",
+    "Mods/Mod.md",
+    "Core.md",
+    "Technicals/Rebinding.md",
+    "Gameplay/Entities/Player/Player.md",
+    "Gameplay/Entities/Player/Profile.md",
+    "Technicals/Optimization.md",
+    "Technicals/Location.md",
+    "Technicals/NG+.md",
+    "Technicals/System.md",
+    "Technicals/Level.md",
+    "Technicals/MP.md",
+    "UI/Localization.md",
+    "Technicals/Graph.md",
+    "UI/Map/Map.md",
+    "Technicals/Min load.md",
+    "Gameplay/Skill tree/Skill tree.md",
+    "Technicals/Technical.md",
+    "Technicals/Vehicles.md",
+    "World.md",
+    "Squad System/Squad System.md",
+    "Quests/Quest.md",
+    "Quests/Event.md",
+    "Gameplay/Stealth.md",
+    "Story.md",
+    "Gameplay/Entities/Player",
+    "Gameplay/Entities",
+    "Technicals",
+    "Player",
+    "UI/Map",
+    "Inventory System/Craft System",
+    "Gameplay",
+    "Gameplay/Skill tree",
+    "Inventory System",
+    "Quests",
+    "Inventory System/Items/Items.png",
+    "UI/MVVM.png"
+  ]
+}
