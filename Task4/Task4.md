@@ -4,7 +4,7 @@
 - Цвет: красный
 - Размер: 32px
 - Толщина: 1 unit
-```js
+```jsx
 <Trash2 className="text-red-500 size-8" strokeWidth={1}/>
 ```
 Результат:

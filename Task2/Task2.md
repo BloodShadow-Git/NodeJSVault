@@ -3,7 +3,7 @@ Tailwindcss был установлен через [официальный са�
 А в файл `index.css`содержит только строчку `@import "tailwindcss";`.
 # Практическое задание №1
 App.jsx:
-```js
+```jsx
 function App() {
 
   return (
@@ -19,7 +19,7 @@ export default App
 ![[Task2/img1.png]]
 # Практическое задание №2
 App.jsx:
-```js
+```jsx
 function App() {
 
   return (
