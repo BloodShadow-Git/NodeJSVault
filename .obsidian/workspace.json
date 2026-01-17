@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "Содержание.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сценарий_2.md",
+                "file": "Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сценарий_2"
+              "title": "Backlinks for Содержание"
             }
           },
           {
@@ -204,17 +204,32 @@
   },
   "active": "bf646c93c9dc637b",
   "lastOpenFiles": [
-    "Task10.md",
+    "Task20.md",
     "Содержание.md",
     "Task9.md",
+    "Task1.md",
+    "Task19.md",
+    "Task18.md",
+    "Task17/Task17.md",
+    "Task17/img1.png",
+    "Task17",
+    "Task16/Task16.md",
+    "Task16/img1.png",
     "Task4/Task4.md",
     "Task2/Task2.md",
-    "Task1.md",
-    "Task3.md",
-    "Task5.md",
-    "Task6.md",
-    "Task7.md",
+    "Task16",
+    "Task16/img1.png",
+    "Task15.md",
+    "Task14.md",
+    "Task13.md",
+    "Task12.md",
+    "Task11.md",
+    "Task10.md",
     "Task8.md",
+    "Task7.md",
+    "Task6.md",
+    "Task5.md",
+    "Task3.md",
     "Memes/Nelza.jpg",
     "Memes",
     "Task4/img1.png",
@@ -229,22 +244,10 @@
     "Mods/Mod.md",
     "Core.md",
     "Technicals/Rebinding.md",
-    "Gameplay/Entities/Player/Player.md",
-    "Gameplay/Entities/Player/Profile.md",
-    "Technicals/Optimization.md",
-    "Technicals/Location.md",
-    "Technicals/NG+.md",
-    "Technicals/System.md",
-    "Technicals/Level.md",
-    "Technicals/MP.md",
-    "UI/Localization.md",
-    "Technicals/Graph.md",
     "Gameplay/Entities/Player",
     "Gameplay/Entities",
     "Technicals",
     "Player",
-    "UI/Map",
-    "Inventory System/Craft System",
     "Inventory System/Items/Items.png",
     "UI/MVVM.png"
   ]
