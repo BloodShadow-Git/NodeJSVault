@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Содержание.md",
+                "file": "Task4/Task4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Содержание"
+              "title": "Task4"
             },
             "group": "5ac3ffa9ba27a9c3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Содержание.md",
+                "file": "Task4/Task4.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Содержание"
+              "title": "Task4"
             },
             "group": "5ac3ffa9ba27a9c3"
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Содержание.md",
+                "file": "Task4/Task4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Содержание"
+              "title": "Backlinks for Task4"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "bf646c93c9dc637b",
   "lastOpenFiles": [
-    "Task20.md",
     "Содержание.md",
+    "Task20.md",
     "Task9.md",
     "Task1.md",
     "Task19.md",
